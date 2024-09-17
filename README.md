@@ -1,4 +1,4 @@
-# No Man's Sky's Menu Sounds for Audio Loader
+# No Man's Sky's menu sounds for Audio Loader
 
 Do you like **No Man's Sky?** Wish you could add a little **NMS** touch to your **Steam Deck**? This is exactly what this is!
 
